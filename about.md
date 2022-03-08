@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-[Back to welcome page](/index.md)
+[Back to home page](https://pavelkriz.github.io/)
 
 <img style="float: right;" width="20%" src="/images/Pavel_Kriz.png">
 
