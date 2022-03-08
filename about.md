@@ -25,7 +25,7 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
   </div>
   <div style="float:left; width: 20%;">
     
-    <img style="float: right;" width="80% margin-bottom: 1cm;" src="/images/about/Madonna.jpg">
+    <img style="float: right; margin-bottom: 1cm;" width="80%" src="/images/about/Madonna.jpg">
   </div>
 <div>
   
