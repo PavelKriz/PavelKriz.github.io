@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome page
 ---
 
 
  
-Persona pages of myself. IN DEVELOPEMENT
+Personal pages of myself. IN DEVELOPEMENT
