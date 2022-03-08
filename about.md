@@ -15,7 +15,7 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
 ## Main projects
 
 
-<div style="witdh: 100%; margin-bottom: 1cm;">
+<div style="witdh: 100%;">
   <div style="float:left; width: 80%;">
     
     I have been working for <b>CESNET</b> on a heritage digitization. I have been working on digitazinng such objects like Madonna from the Old Town in Prague.
@@ -25,7 +25,7 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
   </div>
   <div style="float:left; width: 20%;">
     
-    <img style="float: right;" width="80%" src="/images/about/Madonna.jpg">
+    <img style="float: right;" width="80% margin-bottom: 1cm;" src="/images/about/Madonna.jpg">
   </div>
 <div>
   
