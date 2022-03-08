@@ -8,14 +8,14 @@ permalink: /about/
 
 <img style="float: right;" width="20%" src="/images/Pavel_Kriz.png">
 
-I have started programming quite lately before going to university in 2016. From the frist moment I got drawn into it. I started programming without reading much about it and I was satisfied with first projects like a calculator.
+I started programming quite lately before going to university in 2016. From the frist moment I got drawn into it. I started programming without reading much about it and I was satisfied with first projects like a calculator.
 
 I have finished my bachelors in **Computer Graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en) in 2021. Then I have changed my field of study to **Software Engineering**.
 
 ## Main projects
 
 
-<div style="witdh: 100%; padding-bottom: 20px;">
+<div style="witdh: 100%; margin-bottom: 1cm;">
   <div style="float:left; width: 80%;">
     
     I have been working for <b>CESNET</b> on a heritage digitization. I have been working on digitazinng such objects like Madonna from the Old Town in Prague.
