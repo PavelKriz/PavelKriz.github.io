@@ -14,29 +14,31 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
 
 ## Main projects
 
-I have been working for **CESNET** on a heritage digitization. I have been working on digitazinng such objects like Madonna from the Old Town in Prague.
-
-[Online model](https://modely.cesnet.cz/en/staromestska_madona.html)
-
-<!---
-<img style="float: right;" width="10%" src="/images/about/Madonna.jpg">
---->
-
-My **bachelor thesis** was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
-
-<!---
-<img style="float: right;" width="10%" src="/images/about/Prasna_brana3_vol.jpg">
---->
 
 <div style="witdh: 100%;">
-  <div style="float:left; width: 70%;">
+  <div style="float:left; width: 80%;">
+    
+    I have been working for **CESNET** on a heritage digitization. I have been working on digitazinng such objects like Madonna from the Old Town in Prague.
+    </br>
+    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html">Online model</a>
+  
+  </div>
+  <div style="float:left; width: 20%;">
+    
+    <img style="float: right;" width="80%" src="/images/about/Madonna.jpg">
+  </div>
+<div>
+
+
+<div style="witdh: 100%;">
+  <div style="float:left; width: 80%;">
     
     My <b>bachelor thesis</b> was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
     
   </div>
-  <div style="float:left; width: 30%;">
+  <div style="float:left; width: 20%;">
     
-    <img style="float: right;" width="40%" src="/images/about/Prasna_brana3_vol.jpg">
+    <img style="float: right;" width="80%" src="/images/about/Prasna_brana3_vol.jpg">
   </div>
 <div>
 
