@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome page
 ---
 
 
  
- # Welcome page_
+ ## Welcome page_
   
