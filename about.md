@@ -19,7 +19,7 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
   <div style="float:left; width: 80%;">
     
     I have been working for **CESNET** on a heritage digitization. I have been working on digitazinng such objects like Madonna from the Old Town in Prague.
-    </br>
+    <br>
     <a  href="https://modely.cesnet.cz/en/staromestska_madona.html">Online model</a>
   
   </div>
@@ -29,7 +29,8 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
   </div>
 <div>
 
-
+<br>
+  
 <div style="witdh: 100%;">
   <div style="float:left; width: 80%;">
     
