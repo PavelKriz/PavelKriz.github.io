@@ -5,6 +5,4 @@
 layout: home
 ---
 
-
- 
-Personal pages of myself. IN DEVELOPEMENT
+I am trying to go trough university in a creative way. These are the steps on the way:
