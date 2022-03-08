@@ -8,4 +8,4 @@ title: Welcome page
 
 
  
-Nějaký content tady  
+Persona pages of myself. IN DEVELOPEMENT
