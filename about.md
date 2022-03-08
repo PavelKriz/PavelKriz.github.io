@@ -18,11 +18,15 @@ I have been working for **CESNET** on a heritage digitization. I have been worki
 
 [Online model](https://modely.cesnet.cz/en/staromestska_madona.html)
 
+<!---
 <img style="float: right;" width="10%" src="/images/about/Madonna.jpg">
+--->
 
 My **bachelor thesis** was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
 
+<!---
 <img style="float: right;" width="10%" src="/images/about/Prasna_brana3_vol.jpg">
+--->
 
 <div style="witdh: 100%;">
   <div style="float:left; width: 70%;">
@@ -32,7 +36,7 @@ My **bachelor thesis** was concerned with a solution of a mobile phone localisat
   </div>
   <div style="float:left; width: 30%;">
     
-    <img width="40%" src="/images/about/Prasna_brana3_vol.jpg">
+    <img style="float: right;" width="40%" src="/images/about/Prasna_brana3_vol.jpg">
   </div>
 <div>
 
