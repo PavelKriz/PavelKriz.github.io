@@ -2,7 +2,7 @@
 layout: post
 title:  "Pulse Detector"
 date:   2022-03-08 11:06:34 +0100
-categories: 2022
+categories: jekyll update
 ---
 
 
