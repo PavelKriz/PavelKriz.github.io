@@ -10,7 +10,7 @@ permalink: /about/
 
 I started programming quite lately before going to university in 2016. From the frist moment I got drawn into it. I started programming without reading much about it and I was satisfied with first projects like a calculator.
 
-I have finished my bachelors in **Computer Graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en) in 2021. Then I have changed my field of study to **Software Engineering**.
+I have finished my bachelors in **Computer Graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en) in 2021. For the master studies I have changed my field of study to **Software Engineering**.
 
 ## Main projects
 
