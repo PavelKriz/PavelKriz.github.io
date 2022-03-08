@@ -25,16 +25,14 @@ My **bachelor thesis** was concerned with a solution of a mobile phone localisat
 <img style="float: right;" width="10%" src="/images/about/Prasna_brana3_vol.jpg">
 
 <div style="witdh: 100%;">
-  <div style="float:left; width: 50%;">
-    **Left column title**
+  <div style="float:left; width: 70%;">
     
-    My **bachelor thesis** was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
+    My <b>bachelor thesis</b> was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
     
   </div>
-  <div style="float:left; width: 50%;">
-    **Right column title**
+  <div style="float:left; width: 30%;">
     
-    <img style="float: right;" width="10%" src="/images/about/Prasna_brana3_vol.jpg">
+    <img width="40%" src="/images/about/Prasna_brana3_vol.jpg">
   </div>
 <div>
 
