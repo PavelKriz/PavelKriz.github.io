@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 
 
+[Back to welcome page](/index.md)
+
 ## Idea
 Main idea is about creating application in Python, that would detect and display the pulse frequency. The output values are between 55 and 170 for one person.
 
