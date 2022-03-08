@@ -8,7 +8,7 @@ permalink: /about/
 
 <img style="float: right;" width="20%" src="/images/Pavel_Kriz.png">
 
-I have started programming quite lately before going on a university in a year 2016. From the frist moment I got drawn into it. I started programming without reading much about it and I was satisfied with first projects like calculator.
+I have started programming quite lately before going to university in 2016. From the frist moment I got drawn into it. I started programming without reading much about it and I was satisfied with first projects like a calculator.
 
 I have finished my bachelors in **Computer Graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en) in 2021. Then I have changed my field of study to **Software Engineering**.
 
@@ -20,7 +20,7 @@ I have been working for **CESNET** on a heritage digitization. I have been worki
 
 <img style="float: right;" width="10%" src="/images/about/Madonna.jpg">
 
-My **bachelor thesis** was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in theproject [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
+My **bachelor thesis** was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
 
 <img style="float: right;" width="10%" src="/images/about/Prasna_brana3_vol.jpg">
 
