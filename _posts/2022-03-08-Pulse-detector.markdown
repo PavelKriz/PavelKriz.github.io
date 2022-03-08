@@ -2,14 +2,16 @@
 layout: post
 title:  "Pulse Detector"
 date:   2022-03-08 11:06:34 +0100
-categories: jekyll update
+categories: 2022
 ---
 
 
-# Pulse Detector
 ## Idea
 Main idea is about creating application in Python, that would detect and display the pulse frequency. The output values are between 55 and 170 for one person.
-	
+
+## Project repository
+[The project itself can be found here.](https://github.com/PavelKriz/pulse_detector)
+
 ## Descritption
 The application looks like this:
 
