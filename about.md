@@ -22,6 +22,8 @@ I have been working for **CESNET** on a heritage digitization. I have been worki
 
 My **bachelor thesis** was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in theproject [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
 
+<img style="float: right;" width="10%" src="/images/about/Prasna_brana3_vol.jpg">
+
 
 
 
