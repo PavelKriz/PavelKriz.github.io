@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pulse Detector
-date:   2022-03-07 22:06:34 +0100
+title:  "Pulse Detector"
+date:   2022-03-08 22:06:34 +0100
 categories: jekyll update
 ---
 
