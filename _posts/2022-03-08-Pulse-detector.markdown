@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Pulse Detector
 date:   2022-03-07 22:06:34 +0100
 categories: jekyll update
 ---
@@ -13,15 +13,15 @@ Main idea is about creating application in Python, that would detect and display
 ## Descritption
 The application looks like this:
 
-<img src="/_posts/Pulse_detector_images/Pulse_detector.png"
+<img src="/images/Pulse_detector_images/Pulse_detector.png"
             width="80%">
 	
 In the previous image can be seen the main part of the application, which is displayed in two windwos. The camera settings is easy and with the face locking mechanism is visible on the next images: 
 
-<img src="/_posts/Pulse_detector_images/Pulse_detector_camera_setup.jpg"
+<img src="/images/Pulse_detector_images/Pulse_detector_camera_setup.jpg"
              width="40%">
 	    
-<img src="/_posts/Pulse_detector_images/Pulse_detector_face_setup.jpg"
+<img src="/images/Pulse_detector_images/Pulse_detector_face_setup.jpg"
              width="40%">
             
 It is good to note, that on first sight unpractical face locking, is actualy important for the accuracy of meassurements.
@@ -32,12 +32,12 @@ It is good to note, that on first sight unpractical face locking, is actualy imp
 
 There is one image frm testing which shows happy case, when the detections matches (the real one still might be bit different):
 
-<img src="/_posts/Pulse_detector_images/happy.jpg"
+<img src="/images/Pulse_detector_images/happy.jpg"
              width="30%">
 	
 On this image the innacuracy is visible. The overall is wrong, but at the moment, the current pulse was meassured correctly (most dominant frequency):
 
-<img src="/_posts/Pulse_detector_images/not_so_happy.jpg"
+<img src="/images/Pulse_detector_images/not_so_happy.jpg"
              width="30%">
 	
 ## Installation and run
