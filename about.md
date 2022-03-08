@@ -29,7 +29,8 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
   </div>
 <div>
 
-<br />
+<p style="margin-bottom:1cm;"></p>
+
   
 <div style="witdh: 100%;">
   <div style="float:left; width: 80%;">
