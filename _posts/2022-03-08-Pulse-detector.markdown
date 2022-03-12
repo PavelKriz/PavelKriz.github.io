@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pulse Detector"
+title:  "Pulse Detector - OpenCV application that detects your pulse"
 date:   2022-03-08 11:06:34 +0100
 categories: jekyll update
 ---
