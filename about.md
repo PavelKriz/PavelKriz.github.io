@@ -34,7 +34,7 @@ I have finished my bachelors in **Computer Graphics** at [Faculty of Information
 <div style="witdh: 100%;">
   <div style="float:left; width: 80%;">
     
-    My <b>bachelor thesis</b> was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project [Dowry Towns of Bohemian Queens](https://www.kralovskavennamesta.cz/en/index.html).
+    My <b>bachelor thesis</b> was concerned with a solution of a mobile phone localisation using computer vision. The output of the thesis is used in the project <a  href="https://www.kralovskavennamesta.cz/en/index.html">Dowry Towns of Bohemian Queens</a>.
     
   </div>
   <div style="float:left; width: 20%;">
