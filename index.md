@@ -5,7 +5,7 @@
 layout: home
 ---
 
-`Software Engineering` `Computer graphics` `Computer vision` `Python` `C++` `C`
+`Software engineering` `Computer graphics` `Computer vision` `Python` `C++` `C`
 
 I am trying to go trough university in a creative way. These are the steps on the way:
 
