@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "LBP IN GIMP - Gimp plugin that visualizes Local Binary Pattern in many ways"
+date:   2022-03-13 08:37:34 +0100
+categories: jekyll update
+---
+
+
+[Back to home page](https://pavelkriz.github.io/)
+
+<img style="float:left;" src="/images/LBP-Gimp/testImage.JPG"
+            width="49%">
+
+<img style="float:right;" src="/images/LBP-Gimp/LBP190r16p.JPG"
+            width="49%">
+
+## Local Binary Pattern
+
+Local binary pattern (LBP) is calculated data from the image that represent the image in some exact way. LBP is calculated for every pixel in the image and the output value shows relation of the original pixel to its neighborhood.There is more ways on how to calculate the output value and it leads to different results. The LBP may be used for texture analysis of fingerprints or in medicine. There is nice article on the topic of LBP in [ScienceDirect](https://www.sciencedirect.com/topics/engineering/local-binary-pattern).
+
+## Plugin
+
+The plugin for Gimp is made in a way that more standard LBP can be visualized (on the left - classic LBP) but also some more specific ones as well (on the right - CLBP-C):
+<img style="float:left;" src="/images/LBP-Gimp/LBP10r8p.JPG" width="49%">
+ <img style="float:right;" src="/images/LBP-Gimp/CLBP_C10r8p.JPG" width="49%">
+
+The plugin is made in a way that it can be used just to visualize classic output of LBP but also creation of artistic images using LBP. That can usually be made by setting big radius for the LBP calculation. 
+
+The output is determined by chosen method (LBP variation) and its parameters. The supported LBP variations are following: 
+
+ * LBP
+ * mLBP
+ * ULBP
+ * CLBP
+ * CLBP_S, CLBP_M, CLBP_C
+
+<br>
+
+**[The github repository](https://github.com/PavelKriz/LBP_GIMP_plugin) of the plugin contains more information and the plugin itself.**
+
+<br>
