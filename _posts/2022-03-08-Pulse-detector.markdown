@@ -3,10 +3,8 @@ layout: post
 title:  "PULSE DETECTOR - OpenCV application that detects your pulse from a webcam"
 date:   2022-03-08 11:06:34 +0100
 categories: jekyll update
+cover: /images/Pulse_detector_images/cover.png
 ---
-
-
-[Back to home page](https://pavelkriz.github.io/)
 
 ## Idea
 Main idea is about creating application in Python, that would detect and display the pulse frequency. The output values are between 55 and 170 for one person.

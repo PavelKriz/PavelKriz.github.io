@@ -3,10 +3,9 @@ layout: post
 title:  "LBP IN GIMP - Gimp plugin that visualizes Local Binary Pattern in many ways"
 date:   2022-03-13 08:37:34 +0100
 categories: jekyll update
+cover: /images/LBP-Gimp/cover.JPG
 ---
 
-
-[Back to home page](https://pavelkriz.github.io/)
 
 <img style="float:left;" src="/images/LBP-Gimp/testImage.JPG"
             width="49%">
