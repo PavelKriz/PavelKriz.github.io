@@ -55,12 +55,25 @@ cover: /images/Configurable_pacman/cover.png
   opacity: 0.5;
 }
 
+
+@media only screen and (max-width: 1000px) {
+  .text {
+  color: white;
+  font-size: 3vw;
+  position: absolute;
+  top: 3%;
+  left: 3%;
+}
+}
+
+@media only screen and (min-width:1001px) { 
 .text {
   color: white;
   font-size: 1vw;
   position: absolute;
   top: 3%;
   left: 3%;
+}
 }
 </style>
 
