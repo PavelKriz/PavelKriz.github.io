@@ -57,7 +57,7 @@ cover: /images/Configurable_pacman/cover.png
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 1vw;
   position: absolute;
   top: 3%;
   left: 3%;
