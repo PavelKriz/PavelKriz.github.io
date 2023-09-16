@@ -10,7 +10,7 @@ cover: /images/MultispectralTexturalBenchmark/cover.png
 
 Texture features are specific data extracted for a wide variety of tasks, such as in computer vision. There are many algorithms for extracting these features, but each one has different characteristics. Although comparative studies have been written, they are often limited by the number of features and the specific testing environment. So there is no tool or resource in which to universally compare textural features. Maybe until now. The developed benchmark does just that. The benchmark can test and evaluate features universally for multispectral data (for any number of spectra).
 
-<img style="float:right;" src="/images/MultispectralTexturalBenchmark/mute_exp.png" width="49%">
+<img src="/images/MultispectralTexturalBenchmark/mute_exp.png" width="49%">
 
 It is a web application with cloud computing and symptom evaluation. The entire benchmark is divided into a client application and a server part.
 
