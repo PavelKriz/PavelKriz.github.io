@@ -14,7 +14,7 @@ Texture features are specific data extracted for a wide variety of tasks, such a
 
 It is a web application with cloud computing and symptom evaluation. The entire benchmark is divided into a client application and a server part.
 
-<img style="float:right;" src="/images/MultispectralTexturalBenchmark/MUTE-system-architecture.drawio.png" width="49%">
+<img src="/images/MultispectralTexturalBenchmark/MUTE-system-architecture.drawio.png" width="89%">
 
 The client application is programmed using the Flutter framework, and since it is a multi-platform technology, it can be deployed not only as a web application but also as a native application for Windows or Linux.
 
