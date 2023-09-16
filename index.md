@@ -7,5 +7,5 @@ layout: home
 
 `Software engineering` `Python` `C++` `C` `Java` `Dart` `Flutter` `Computer graphics` `Computer vision` `Python` `...`
 
-Welcome to my personal website, if you decide to look at it, you will see some of my implemented ones:
+Welcome to my personal website with my projects, if you decide to look at it, you will see a preview of my projects:
 
