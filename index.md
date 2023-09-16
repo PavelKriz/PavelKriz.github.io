@@ -5,7 +5,5 @@
 layout: home
 ---
 
-`Software engineering` `Python` `C++` `C` `Java` `Dart` `Flutter` `Computer graphics` `Computer vision` `Python` `...`
-
 Welcome to my personal website with my projects, if you decide to look at it, you will see a preview of my projects. Besides these I have uploaded few others to my <a href="https://github.com/PavelKriz">GitHub<\a>. It is not my only work, unfortunately most of my projects are on a closed GitLab server. 
 
