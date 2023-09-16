@@ -6,9 +6,15 @@ categories: jekyll update
 cover: /images/MultispectralTexturalBenchmark/cover.png
 ---
 
+**With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application.**  
+
 Texture features are specific data extracted for a wide variety of tasks, such as in computer vision. There are many algorithms for extracting these features, but each one has different characteristics. Although comparative studies have been written, they are often limited by the number of features and the specific testing environment. So there is no tool or resource in which to universally compare textural features. Maybe until now. The developed benchmark does just that. The benchmark can test and evaluate features universally for multispectral data (for any number of spectra).
 
+<img style="float:right;" src="/images/MultispectralTexturalBenchmark/mute_exp.png" width="49%">
+
 It is a web application with cloud computing and symptom evaluation. The entire benchmark is divided into a client application and a server part.
+
+<img style="float:right;" src="/images/MultispectralTexturalBenchmark/MUTE-system-architecture.drawio.png" width="49%">
 
 The client application is programmed using the Flutter framework, and since it is a multi-platform technology, it can be deployed not only as a web application but also as a native application for Windows or Linux.
 
