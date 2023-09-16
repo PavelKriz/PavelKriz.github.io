@@ -10,10 +10,23 @@ permalink: /about/
 
 I started programming quite lately before going to university in 2016. From the frist moment I got drawn into it. I started programming without reading much about it and I was satisfied with first projects like a calculator.
 
-I have finished my bachelors in **computer graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en) in 2021. For the master studies I have changed my field of study to **software engineering**.
+I have finished my masters in **software engineering** and my bachelors in **computer graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en). During my bachelors I went on exchange studies to Germany to [**RWTH Aachen**](https://www.rwth-aachen.de).
 
 ## Main projects
+mute_exp.png
 
+<div style="witdh: 100%;">
+  <div style="float:left; width: 80%;">
+    
+    I have been working for <b>Czech Academy of Sciences</b> on Multispectral Textural Benchmark development, unique web application. The development resulted to a scientific article presented at 27th KES conference. 
+    <br>
+    <a  href="https://pavelkriz.github.io/jekyll/update/2023/08/11/MultispectralTexturalBenchmark.html">Project description</a>
+  
+  </div>
+  <div style="float:left; width: 20%;">
+    <img style="float: right; margin-bottom: 1cm;" width="80%" src="/images/about/mute_exp.png">
+  </div>
+<div>
 
 <div style="witdh: 100%;">
   <div style="float:left; width: 80%;">

@@ -5,8 +5,7 @@
 layout: home
 ---
 
-`Software engineering` `Computer graphics` `Computer vision` `Python` `C++` `C`
+`Software engineering` `Python` `C++` `C` `Java` `Dart` `Flutter` `Computer graphics` `Computer vision` `Python` `...`
 
-I am trying to go trough university in a creative way. These are the steps on the way:
-
+Welcome to my personal website, if you decide to look at it, you will see some of my implemented ones:
 
