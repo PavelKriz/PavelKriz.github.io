@@ -13,7 +13,6 @@ I started programming quite lately before going to university in 2016. From the 
 I have finished my masters in **software engineering** and my bachelors in **computer graphics** at [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en). During my bachelors I went on exchange studies to Germany to [**RWTH Aachen**](https://www.rwth-aachen.de).
 
 ## Main projects
-mute_exp.png
 
 <div style="witdh: 100%;">
   <div style="float:left; width: 80%;">
@@ -27,6 +26,8 @@ mute_exp.png
     <img style="float: right; margin-bottom: 1cm;" width="80%" src="/images/about/mute_exp.png">
   </div>
 <div>
+
+<hr>
 
 <div style="witdh: 100%;">
   <div style="float:left; width: 80%;">
