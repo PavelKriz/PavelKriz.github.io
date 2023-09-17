@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Multispectral Textural Benchmark"
+date:   2021-12-09 22:25:45 +0100
+categories: jekyll update
+cover: /images/mvc/mvc_cover.png
+---
+
+**Angry birds alike shooter written in Java using JavaFX. It was a semestral project at my university in a course Architecture and Design Patterns. Besides others, there are used structural patterns like bridge or proxy and behavioral patterns with examples of memento, command and interpreter, the well known creational pattern family of factories is represented by Abstract Factory. The whole application is following architecture Model-View-Controller.**  
+
+![In game image](/images/mvc/mvc1.jpg "In game image")
+![In game image](/images/mvc/mvc2.jpg "In game image")
