@@ -11,5 +11,5 @@ cover: /images/mvc/mvc_cover.png
 [The code.](https://github.com/PavelKriz/mvc_adp)
 
 ![In game image](/images/mvc/adp_semestralka.png "Class diagram")
-The class diagram of the project in which one cas recognize the individual implemented design patterns. 
+The class diagram of the project in which one cas recognize the individual implemented design patterns (open the image in a new tab to get the full view and zoom). 
 ![In game image](/images/mvc/mvc2.jpg "In game image")
