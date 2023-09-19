@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PACMAN - a game that runs even on 3 FPS"
-date:   2022-03-24 17:37:34 +0100
+date:   2020-06-17 17:37:34 +0100
 categories: jekyll update
 cover: /images/Configurable_pacman/cover.png
 ---

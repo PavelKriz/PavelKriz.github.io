@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PULSE DETECTOR - OpenCV application that detects your pulse from a webcam"
-date:   2022-03-08 11:06:34 +0100
+date:   2022-02-09 11:06:34 +0100
 categories: jekyll update
 cover: /images/Pulse_detector_images/cover.png
 ---
