@@ -27,16 +27,16 @@ Texture features are specific data extracted for a wide variety of tasks, such a
 
 I would like to briefly introduce the application. Where you can:
 **Managing own experiments**
-<img src="/images/MultispectralTexturalBenchmark/my-experiments.png" width="60%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/my-experiments.png" width="90%" class="center">
 
 **Exploring experiments of others**
-<img src="/images/MultispectralTexturalBenchmark/public-experiments.png" width="60%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/public-experiments.png" width="90%" class="center">
 
 **Setup and run an experiment and the view the results in detail**
-<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="60%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="90%" class="center">
 
 **Visualize the features**
-<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="60%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="90%" class="center">
 
 **Future application features**
 The benchmark is still in development and I work on it in my free time, there are going to be added following essential application features soon:
