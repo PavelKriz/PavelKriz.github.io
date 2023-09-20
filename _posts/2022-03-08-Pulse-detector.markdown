@@ -6,11 +6,13 @@ categories: jekyll update
 cover: /images/Pulse_detector_images/cover.png
 ---
 
+**Are you curious about measuring your pulse using just a webcam? Dive into the world of pulse detection with PULSE DETECTOR, a Python application built on OpenCV. This project offers a glimpse into how your webcam can reveal your pulse frequency. Join us as we explore the application's features, accuracy, and installation instructions.**
+
+The project itself can be found  **[here.](https://github.com/PavelKriz/pulse_detector)**
+
+
 ## Idea
 Main idea is about creating application in Python, that would detect and display the pulse frequency. The output values are between 55 and 170 for one person.
-
-## Project repository
-[The project itself can be found here.](https://github.com/PavelKriz/pulse_detector)
 
 ## Descritption
 The application looks like this:
