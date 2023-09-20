@@ -12,8 +12,8 @@ The class diagram of the project(open the image in a new tab to get the full vie
 ![In game image](/images/mvc/thedrakeProject.png "Class diagram")
 # Game description
 Starting phase: first the players need to put down their basic units (the Drake and two Clubmen). 
-![Starting phase](/images/mvc/game0.jpg "Starting phase")
+![Starting phase](/images/the_drake/game0.jpg "Starting phase")
 Game phase: after placing the basic units players can start to play. They play in turns and in each of them the player can place a unit or move one of their units on the board. The goal of the game is to capture the enemies units (similarly as in chess). The game ends when one player captures Drake of the opposite player.
 
 The complication is that each unit has different pattern of moving. The possible directions of movement are switching with the unit moves as well. 
-![Game phase](/images/mvc/game0.jpg "Game phase")
+![Game phase](/images/the_drake/game0.jpg "Game phase")
