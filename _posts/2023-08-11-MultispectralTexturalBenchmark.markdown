@@ -5,12 +5,49 @@ date:   2023-08-11 22:25:45 +0100
 categories: jekyll update
 cover: /images/MultispectralTexturalBenchmark/cover.png
 ---
+<style>
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 
 **With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application.**  
 
+**Post content**
+First the idea is introduced, then the features and future features are explained and in the end the used architecture and technologies brief description is elaborated.  
+
+# Why is there need for such apllication
+
 Texture features are specific data extracted for a wide variety of tasks, such as in computer vision. There are many algorithms for extracting these features, but each one has different characteristics. Although comparative studies have been written, they are often limited by the number of features and the specific testing environment. So there is no tool or resource in which to universally compare textural features. Maybe until now. The developed benchmark does just that. The benchmark can test and evaluate features universally for multispectral data (for any number of spectra).
 
-<img src="/images/MultispectralTexturalBenchmark/mute_exp.png" width="49%">
+# Application
+
+I would like to briefly introduce the application. Where you can:
+**Managing own experiments**
+<img src="/images/MultispectralTexturalBenchmark/my-experiments.png" width="60%" class="center">
+
+**Exploring experiments of others**
+<img src="/images/MultispectralTexturalBenchmark/public-experiments.png" width="60%" class="center">
+
+**Setup and run an experiment and the view the results in detail**
+<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="60%" class="center">
+
+**Visualize the features**
+<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="60%" class="center">
+
+**Future application features**
+The benchmark is still in development and I work on it in my free time, there are going to be added following essential application features soon:
+- Algorithm comparison
+- User input of features
+and other application features:
+- more features
+- more evaluation criteria
+- choice of criteria
+
+# Architecture and technologies
 
 It is a web application with cloud computing and symptom evaluation. The entire benchmark is divided into a client application and a server part.
 
