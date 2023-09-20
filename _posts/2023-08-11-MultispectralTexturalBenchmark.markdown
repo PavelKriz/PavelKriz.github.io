@@ -41,6 +41,7 @@ I would like to briefly introduce the application. Where you can:
 The benchmark is still in development and I work on it in my free time, there are going to be added following essential application features soon:
 - Algorithm comparison
 - User input of features
+
 and other application features:
 - more features
 - more evaluation criteria
