@@ -13,7 +13,7 @@ cover: /images/MultispectralTexturalBenchmark/cover.png
 }
 </style>
 
-**With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application.**  
+**With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application. I have published a scientific article about the benchmark at 27th KES conference and it will be available in conference journal soon.**  
 
 **Post content**
 First the idea is introduced, then the features and future features are explained and in the end the used architecture and technologies brief description is elaborated.  
@@ -32,10 +32,10 @@ I would like to briefly introduce the application. Where you can:
 <img src="/images/MultispectralTexturalBenchmark/public-experiments.png" width="90%" class="center">
 
 **Setup and run an experiment and the view the results in detail**
-<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="80%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="90%" class="center">
 
 **Visualize the features**
-<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="80%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="90%" class="center">
 
 **Future application features**
 The benchmark is still in development and I work on it in my free time, there are going to be added following essential application features soon:
