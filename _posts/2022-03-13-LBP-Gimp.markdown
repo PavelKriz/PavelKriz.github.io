@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LBP IN GIMP - Gimp plugin that visualizes Local Binary Pattern in many ways"
+title:  "Image algorithms - Gimp C++ plugin that visualizes Local Binary Patterns"
 date:   2019-12-01 08:37:34 +0100
 categories: jekyll update
 cover: /images/LBP-Gimp/cover.JPG

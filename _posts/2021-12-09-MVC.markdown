@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JavaFX shooter game for design pattern testing"
+title:  "Structural, behavioral and creational patterns - complex design pattern training in Java"
 date:   2021-12-09 22:25:45 +0100
 categories: jekyll update
 cover: /images/mvc/mvc_cover.png

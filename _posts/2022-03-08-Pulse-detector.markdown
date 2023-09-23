@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PULSE DETECTOR - OpenCV application that detects your pulse from a webcam"
+title:  "Webcam pulse detector - live heart rate detection in Python"
 date:   2022-02-09 11:06:34 +0100
 categories: jekyll update
 cover: /images/Pulse_detector_images/cover.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multispectral Textural Benchmark"
+title:  "Multispectral Textural Benchmark - unique cloud application"
 date:   2023-08-11 22:25:45 +0100
 categories: jekyll update
 cover: /images/MultispectralTexturalBenchmark/cover.png

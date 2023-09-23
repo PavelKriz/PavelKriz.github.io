@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PACMAN - a game that runs even on 3 FPS"
+title:  "PACMAN Remastered: Optimized Game Engine with Customizable Maps"
 date:   2020-06-17 17:37:34 +0100
 categories: jekyll update
 cover: /images/Configurable_pacman/cover.png
