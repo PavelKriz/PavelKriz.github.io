@@ -74,9 +74,9 @@ Besides many of my diverse university projects I found also a part time jobs and
     <img src="/images/about/mute_exp.png"> 
   </div>
   <div class="column">
-    Digitization and automatization of online heritage -
+    Digitization and automatization of historical heritage - 
     
-    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html">Online example</a>
+    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html">online example</a>
   
     <img  src="/images/about/Madonna.jpg"> 
   </div>
