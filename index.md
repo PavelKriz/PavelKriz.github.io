@@ -81,7 +81,7 @@ Besides many of my diverse university projects I found also a part time jobs and
     <img  src="/images/about/Madonna.jpg"> 
   </div>
   <div class="column">
-    Mobile phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html">Dowry Towns of Bohemian</a>
+    Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html">Dowry Towns of Bohemian Queens</a>
     
     <img width="76%" src="/images/about/Prasna_brana3_vol.jpg"> 
   </div>
