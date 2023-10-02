@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Phone localization using computer vision for Dowry Towns of Bohemian Queens "
-date:   2020-10-31 08:37:34 +0100
+date:   2021-05-15 08:37:34 +0100
 categories: jekyll update
 cover: /images/phone-localization/phone-localization-cover.png
 ---
