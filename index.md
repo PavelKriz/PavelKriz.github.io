@@ -68,7 +68,7 @@ Besides many of my diverse university projects I found also a part time jobs and
 
 <div class="row">
   <div class="column">
-    Multispectral Textural Benchmark - published at 27th KES conference. 
+    <a href="jekyll/update/2023/08/11/MultispectralTexturalBenchmark.html"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
     <br>
   
     <img src="/images/about/mute_exp.png"> 
