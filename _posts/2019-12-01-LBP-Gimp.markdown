@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Image algorithms - Gimp C++ plugin that visualizes Local Binary Patterns"
+title:  "Image algorithms - visualization of Local Binary Patterns"
 date:   2019-12-01 08:37:34 +0100
 categories: jekyll update
 cover: /images/LBP-Gimp/cover.JPG
+tags: ["C", "GTK", "C++", "Gimp"]
 ---
 
 **The "LBP IN GIMP" plugin is a powerful tool designed for GIMP, the popular image editing software. This plugin allows users to visualize various Local Binary Pattern (LBP) variations in images, making it useful for tasks like texture analysis in fields such as fingerprint recognition and medicine. Whether you need to visualize classic LBP or create artistic images using LBP with custom parameters, this plugin offers a versatile solution. It supports multiple LBP variations and provides a bridge between image processing and artistic creativity.**

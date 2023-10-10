@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "The Drake - Java strategic turn-based game"
+title:  "The Drake - strategic turn-based game"
 date:   2019-12-15 16:45:00 +0100
 categories: jekyll update
 cover: /images/the_drake/the-drake-cover.jpg
+tags: ["Java", "JavaFX"]
 ---
 
 **The game was created as a solution to a semester project in a subject at the university (programming in Java). The project was completed under the guidance of the project, where the teacher aimed to teach the student various programming techniques in Java.**

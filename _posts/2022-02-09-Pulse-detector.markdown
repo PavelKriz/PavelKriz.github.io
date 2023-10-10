@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Webcam pulse detector - live heart rate detection in Python"
+title:  "Webcam pulse detector - live heart rate detection"
 date:   2022-02-09 11:06:34 +0100
 categories: jekyll update
 cover: /images/Pulse_detector_images/cover.png
+tags: ["Python", "OpenCV"]
 ---
 
 **Are you curious about measuring your pulse using just a webcam? Dive into the world of pulse detection with PULSE DETECTOR, a Python application built on OpenCV. This project offers a glimpse into how your webcam can reveal your pulse frequency. Join us as we explore the application's features, accuracy, and installation instructions.**

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Phone localization using computer vision for Dowry Towns of Bohemian Queens "
+title:  "Phone localization using computer vision better than GPS"
 date:   2021-05-15 08:37:34 +0100
 categories: jekyll update
 cover: /images/phone-localization/phone-localization-cover.png
+tags: ["C++", "OpenCV", "Boost", "Microsoft Visual C++"]
 ---
 
 **The work was a bachelor thesis created as a part of the Dowry Cities of Czech Queens project, which aims to bring history closer to the general public using modern technologies such as augmented reality. This is done using an application for Android mobile devices, which displays historical elements in the camera scene at runtime. This work contributes to its development by proposing a localization solution for the application using image and geolocation data.**

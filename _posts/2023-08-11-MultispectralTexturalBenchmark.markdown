@@ -4,6 +4,7 @@ title:  "Multispectral Textural Benchmark - unique cloud application"
 date:   2023-08-11 22:25:45 +0100
 categories: jekyll update
 cover: /images/MultispectralTexturalBenchmark/cover.png
+tags: ["Python", "Flask", "Flutter", "Apache", "REST", "C", "C++", "MongoDB", "SQL", "Redis Queue"]
 ---
 <style>
  .center {
