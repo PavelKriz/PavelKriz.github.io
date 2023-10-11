@@ -16,7 +16,7 @@
 title: Pavel Kříž
 email: pkrizk@email.cz
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an graduated software engineer which likes to be creative and I would like to show at least few of my implemented solutions.
+  Code creatively, innovatively, securely and accurately
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  PavelKriz
