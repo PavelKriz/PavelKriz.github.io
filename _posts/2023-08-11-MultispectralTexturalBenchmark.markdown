@@ -16,7 +16,7 @@ tags: ["Python", "Flask", "Flutter", "Apache", "REST", "C", "C++", "MongoDB", "S
 
 **With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application. I have published a scientific article about the benchmark at 27th KES conference and it will be available in conference journal soon.**  
 
-**Application runs at [texture.utia.cas.cz](http://texture.utia.cas.cz)** (so far it only runs on http). 
+**Application runs at [texture.utia.cas.cz](https://texture.utia.cas.cz)**. 
 
 **Post content**
 First the idea is introduced, then the features and future features are explained and in the end the used architecture and technologies brief description is elaborated.  
