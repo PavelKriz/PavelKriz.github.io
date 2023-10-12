@@ -68,7 +68,7 @@ Besides many of my diverse university projects I found also a part time jobs and
 
 <div class="row">
   <div class="column">
-    <a href="jekyll/update/2023/08/11/MultispectralTexturalBenchmark.html"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
+    <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
     <br>
   
     <img src="/images/about/mute_exp.png"> 
@@ -76,12 +76,12 @@ Besides many of my diverse university projects I found also a part time jobs and
   <div class="column">
     Digitization and automatization of historical heritage - 
     
-    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html">online example</a>
+    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html" target="_blank" rel="noopener noreferrer">online example</a>
   
     <img  src="/images/about/Madonna.jpg"> 
   </div>
   <div class="column">
-    Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html">Dowry Towns of Bohemian Queens</a>
+    Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
     
     <img width="76%" src="/images/about/Prasna_brana3_vol.jpg"> 
   </div>
