@@ -6,10 +6,7 @@ layout: home
 ---
 
 <style>
-* {
-  box-sizing: border-box;
-}
-
+/*Button style*/
 .button {
   border: 1px solid #111111;
   color: #2a7ae2;
@@ -20,42 +17,36 @@ layout: home
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
-  
 }
+/*Button style - changes on hower*/
 .button:hover {
-  /**background-color: #DDDDDD;**/
+  background-color: #EEEEEE;
   color: #111;
   text-decoration-line: underline;
 }
 
 /* Create three equal columns that floats next to each other */
-.column {
+.project-column {
   float: left;
-  width: 33%;
-  padding: 10px;
+  width: 30%;
+  padding: 1.5%;
   text-align:center;
 }
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
+/* Make them stuck under each other */
 @media screen and (max-width: 600px) {
-  .column {
+  .project-column {
     width: 100%;
+    padding: 0%;
   }
 }
-
 </style>
+
 
 # Welcome
 
 <img style="float: right;" width="20%" src="/images/Pavel_Kriz.png">
 
-My name is Pavel Kříž and I am a software engineer and I mainly deal with the backend, but I am a creative person and I have also dealt with frontend projects and I am even trained in UI/UX development and testing.
+My name is Pavel Kříž and I am a **software engineer** and I mainly deal with the backend, but I am a creative person and I have also dealt with frontend projects and I am even trained in UI/UX development and testing.
 
 ## My projects
 
@@ -66,26 +57,26 @@ Besides many of my diverse university projects I found also a part time jobs and
 <button class="button" style="margin: 5pt 5pt 20pt 5pt;" onclick="window.location.href='/projects';">See my projects</button>
 </div>  
 
-<div class="row">
-  <div class="column">
-    <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
-    <br>
-  
-    <img src="/images/about/mute_exp.png"> 
-  </div>
-  <div class="column">
-    Digitization and automatization of historical heritage - 
-    
-    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html" target="_blank" rel="noopener noreferrer">online example</a>
-  
-    <img  src="/images/about/Madonna.jpg"> 
-  </div>
-  <div class="column">
-    Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
-    
-    <img width="76%" src="/images/about/Prasna_brana3_vol.jpg"> 
-  </div>
+
+<div class="project-column">
+  <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
+  <br>
+
+  <img src="/images/about/mute_exp.png"> 
 </div>
+<div class="project-column">
+  Digitization and automatization of historical heritage - 
+  
+  <a  href="https://modely.cesnet.cz/en/staromestska_madona.html" target="_blank" rel="noopener noreferrer">online example</a>
+
+  <img  src="/images/about/Madonna.jpg"> 
+</div>
+<div class="project-column">
+  Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
+    
+  <img width="76%" src="/images/about/Prasna_brana3_vol.jpg"> 
+</div>
+
 <br>
 
 
