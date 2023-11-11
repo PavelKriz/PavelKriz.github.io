@@ -8,16 +8,17 @@ layout: home
 <style>
 /*Button style*/
 .button {
-  border: 1px solid #111111;
+  border: 1pt solid #111111;
   color: #2a7ae2;
   background-color: white;
-  padding: 15px 32px;
+  padding: 12pt 24pt;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 12pt;
   cursor: pointer;
 }
+
 /*Button style - changes on hower*/
 .button:hover {
   background-color: #EEEEEE;
@@ -54,9 +55,10 @@ Besides many of my diverse university projects I found also a part time jobs and
 
 
 <div style="text-align:center">  
-<button class="button" style="margin: 5pt 5pt 20pt 5pt;" onclick="window.location.href='/projects';">See my projects</button>
+  <button class="button" onclick="window.location.href='/projects';">See my projects</button>
 </div>  
 
+<div style="margin: 0pt 0pt 20pt 0pt;"></div>
 
 <div class="project-column">
   <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 

@@ -9,7 +9,6 @@ permalink: /contacts/
 
 # Contacts
 
-
 Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 <ul class="social-media-list">
