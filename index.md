@@ -17,6 +17,7 @@ layout: home
   display: inline-block;
   font-size: 12pt;
   cursor: pointer;
+  border-radius: 30px;
 }
 
 /*Button style - changes on hower*/
@@ -40,19 +41,17 @@ layout: home
     padding: 0%;
   }
 }
+
+img{
+  border-radius: 5%;
+}
+
 </style>
 
 
 # Welcome
 
-<img style="float: right;" width="20%" src="/images/Pavel_Kriz.png">
-
 My name is Pavel Kříž and I am a **software engineer** and I mainly deal with the backend, but I am a creative person and I have also dealt with frontend projects and I am even trained in UI/UX development and testing.
-
-## My projects
-
-Besides many of my diverse university projects I found also a part time jobs and other side projects during my studies.
-
 
 <div style="text-align:center">  
   <button class="button" onclick="window.location.href='/projects';">See my projects</button>
@@ -60,12 +59,7 @@ Besides many of my diverse university projects I found also a part time jobs and
 
 <div style="margin: 0pt 0pt 20pt 0pt;"></div>
 
-<div class="project-column">
-  <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
-  <br>
 
-  <img src="/images/about/mute_exp.png"> 
-</div>
 <div class="project-column">
   Digitization and automatization of historical heritage - 
   
@@ -74,19 +68,38 @@ Besides many of my diverse university projects I found also a part time jobs and
   <img  src="/images/about/Madonna.jpg"> 
 </div>
 <div class="project-column">
+  <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
+  <br>
+
+  <img src="/images/about/mute_exp.png"> 
+</div>
+<div class="project-column">
   Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
     
-  <img width="76%" src="/images/about/Prasna_brana3_vol.jpg"> 
+  <img src="/images/about/Prasna_brana3_vol.jpg"> 
 </div>
-
-<br>
-
 
 ## My story
 
-I started programming quite lately before going to university in 2016. From the first moment I got drawn into it. Later I have finished my bachelors in **computer graphics**, I learned both basic and advanced computer graphics calculation techniques, visualizations, image processing algorithms and others such as user interface development and testing.
+<img style="float: right; margin : 5%" width="20%" src="/images/Pavel_Kriz.png">
 
-Later, I have finished my masters in **software engineering** at the same university [Faculty of Information Technology, **CTU in Prague**](https://fit.cvut.cz/en). I changed my major to software engineering to learn more general knowledge. Second reason was also the fact that I took master courses of computer graphics on my exchange studies (Erasmus) in Germany at [**RWTH Aachen**](https://www.rwth-aachen.de), which completed my knowledge in computer graphics. As a software engineer I have good knowledge of software development techniques, teamwork, design patterns and architectures, diagrams, parallel and distributed computations, good coding standards and many others.
+#### 2016
 
-During my studies I got two IT part-time jobs and mainly I have attended a research project for Czech Academy of Sciences where I developed textural features benchmarking cloud application, which is first such application. In the end I **published scientific paper** about the innovative application **at KES International Conference in Athens**.  
+* I coded first calculator 😀
 
+#### 2017 - 2021
+
+* I liked the programming so much -> application to universiy [FIT CTU in Prague (ČVUT)](https://fit.cvut.cz/en)  
+* Hearing **computer graphics** is the hardest major at faculty, so I chosen it with sentence "Hard in school, easy on job" in mind
+* Going to **Erasmus in Germany** at [RWTH Aachen](https://www.rwth-aachen.de) -  if the already hard school was not hard enough 😀
+* I have joined the Erasmus Student Network (ESN), which was one of my best decisions ever
+
+#### 2021 - 2023
+
+* **publishing scientific paper** about the innovative application at KES International Conference in Athens
+* I finished my masters in **software engineering** at  [FIT CTU in Prague (ČVUT)](https://fit.cvut.cz/en)  
+
+#### 2023 - now
+
+* I moved to Karlsruhe, Germany
+* I am working at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) as Computer Scientist. I maintain GitLab service with over 30 nodes and I like it especially for the fact that I can lear new technology every week. It includes a lot of programming as well.
