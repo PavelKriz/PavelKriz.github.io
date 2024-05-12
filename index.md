@@ -3,75 +3,28 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome
 ---
-
-<style>
-/*Button style*/
-.button {
-  border: 1pt solid #111111;
-  color: #2a7ae2;
-  background-color: white;
-  padding: 12pt 24pt;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12pt;
-  cursor: pointer;
-  border-radius: 30px;
-}
-
-/*Button style - changes on hower*/
-.button:hover {
-  background-color: #EEEEEE;
-  color: #111;
-  text-decoration-line: underline;
-}
-
-/* Create three equal columns that floats next to each other */
-.project-column {
-  float: left;
-  width: 30%;
-  padding: 1.5%;
-  margin: 5% 0% 5% 0%;
-  text-align:center;
-}
-/* Make them stuck under each other */
-@media screen and (max-width: 600px) {
-  .project-column {
-    width: 100%;
-    padding: 0%;
-  }
-}
-</style>
-
-
-# Welcome
 
 My name is Pavel Kříž and I am a **software engineer** and I mainly deal with the backend, but I am a creative person and I have also dealt with frontend projects and I am even trained in UI/UX development and testing.
 
 <div style="text-align:center; margin: 20pt 0pt 10pt 0pt;">  
-  <button class="button" onclick="window.location.href='/projects';">See my projects</button>
+  <button class="main-button" onclick="window.location.href='/projects';">See my projects</button>
 </div>  
 
-<div style="display: flex;
-    flex-wrap: wrap;
-    margin: 0pt 0pt 10pt 0pt;">
-  <div class="project-column">
+<div class="basic-row" style="margin: 0pt 0pt 10pt 0pt;">
+  <div class="column-3">
     Digitization and automatization of historical heritage - 
-    
     <a  href="https://modely.cesnet.cz/en/staromestska_madona.html" target="_blank" rel="noopener noreferrer">online example</a>
-  
     <img class="main-img" src="/images/about/Madonna.jpg"> 
   </div>
-  <div class="project-column">
+  <div class="column-3">
     <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
     <br>
-  
     <img class="main-img" src="/images/about/mute_exp.png"> 
   </div>
-  <div class="project-column">
+  <div class="column-3">
     Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
-      
     <img  class="main-img" src="/images/about/Prasna_brana3_vol.jpg"> 
   </div>
 </div>

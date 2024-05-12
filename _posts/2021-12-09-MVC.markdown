@@ -5,11 +5,10 @@ date:   2021-12-09 22:25:45 +0100
 categories: jekyll update
 cover: /images/mvc/class_diagram_cover.png
 tags: ["Java", "Maven","JavaFX"]
+introdution: 'Angry birds alike shooter written in Java using JavaFX. It was a semestral project at my university in a course Architecture and Design Patterns. Besides others, there are used structural patterns like bridge or proxy and behavioral patterns with examples of memento, command and interpreter, the well known creational pattern family of factories is represented by Abstract Factory. The whole application is following architecture Model-View-Controller.'
+github: https://github.com/PavelKriz/mvc_adp
 ---
 
-**Angry birds alike shooter written in Java using JavaFX. It was a semestral project at my university in a course Architecture and Design Patterns. Besides others, there are used structural patterns like bridge or proxy and behavioral patterns with examples of memento, command and interpreter, the well known creational pattern family of factories is represented by Abstract Factory. The whole application is following architecture Model-View-Controller.**
-
-**[The github repository](https://github.com/PavelKriz/mvc_adp) of the game.**
 
 ![In game image](/images/mvc/adp_semestralka.png "Class diagram")
 The class diagram of the project in which one cas recognize the individual implemented design patterns (open the image in a new tab to get the full view and zoom). 

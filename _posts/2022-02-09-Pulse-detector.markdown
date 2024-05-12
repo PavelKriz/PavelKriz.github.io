@@ -5,11 +5,9 @@ date:   2022-02-09 11:06:34 +0100
 categories: jekyll update
 cover: /images/Pulse_detector_images/cover.png
 tags: ["Python", "OpenCV"]
+introduction: "Are you curious about measuring your pulse using just a webcam? Dive into the world of pulse detection with PULSE DETECTOR, a Python application built on OpenCV. This project offers a glimpse into how your webcam can reveal your pulse frequency. Join us as we explore the application's features, accuracy, and installation instructions."
+github: "https://github.com/PavelKriz/pulse_detector"
 ---
-
-**Are you curious about measuring your pulse using just a webcam? Dive into the world of pulse detection with PULSE DETECTOR, a Python application built on OpenCV. This project offers a glimpse into how your webcam can reveal your pulse frequency. Join us as we explore the application's features, accuracy, and installation instructions.**
-
-**The project itself can be found  [here.](https://github.com/PavelKriz/pulse_detector)**
 
 
 ## Idea

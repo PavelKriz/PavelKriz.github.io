@@ -5,11 +5,9 @@ date:   2020-10-31 08:37:34 +0100
 categories: jekyll update
 cover: /images/heritage-digitization/socha_cover.jpg
 tags: ["Python scripts", "Blender", "RealityCapture"]
+introduction: 'I have been working for CESNET on a heritage digitization. I have been working on digitizing such objects like Madonna from the Old Town in Prague.'
 ---
 
-**I have been working for CESNET on a heritage digitization. I have been working on digitizing such objects like Madonna from the Old Town in Prague.**
-
-<!--**[The github repository](https://github.com/PavelKriz/XXX) of the project.**-->
 
 [Website with digitized models](https://modely.cesnet.cz) containing selected digitized models which have been digitized by CESNET.
 

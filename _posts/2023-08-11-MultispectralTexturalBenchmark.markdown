@@ -5,16 +5,10 @@ date:   2023-08-11 22:25:45 +0100
 categories: jekyll update
 cover: /images/MultispectralTexturalBenchmark/cover.png
 tags: ["Python", "Flask", "Flutter", "Apache", "REST", "C", "C++", "MongoDB", "SQL", "Redis Queue"]
+introduction: 'With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application. I have published a scientific article about the benchmark at 27th KES conference and it will be available in conference journal soon.'
 ---
-<style>
- .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
-**With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application. I have published a scientific article about the benchmark at 27th KES conference and it will be available in conference journal soon.**  
+
 
 **Application runs at [texture.utia.cas.cz](https://texture.utia.cas.cz)**. 
 
@@ -29,16 +23,16 @@ Texture features are specific data extracted for a wide variety of tasks, such a
 
 I would like to briefly introduce the application. Where you can:
 **Managing own experiments**
-<img src="/images/MultispectralTexturalBenchmark/my-experiments.png" width="*90*%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/my-experiments.png" width="*90*%" class="align-center">
 
 **Exploring experiments of others**
-<img src="/images/MultispectralTexturalBenchmark/public-experiments.png" width="90%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/public-experiments.png" width="90%" class="align-center">
 
 **Setup and run an experiment and the view the results in detail**
-<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="90%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/experiment.png" width="90%" class="align-center">
 
 **Visualize the features**
-<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="90%" class="center">
+<img src="/images/MultispectralTexturalBenchmark/experiment-visualization.png" width="90%" class="align-center">
 
 **Future application features**
 The benchmark is still in development and I work on it in my free time, there are going to be added following essential application features soon:

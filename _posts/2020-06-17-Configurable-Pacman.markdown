@@ -5,11 +5,10 @@ date:   2020-06-17 17:37:34 +0100
 categories: jekyll update
 cover: /images/Configurable_pacman/cover.png
 tags: ["C++", "SDL 2.0", "CMake", "Make"]
+introduction: 'Introducing "PACMAN" – a game that defies expectations by running smoothly even at a mere 3 FPS! Its coded to be playable and reliable under such condition. This classic arcade game has been given a modern twist, featuring customizable maps, various game modes, and a unique challenge involving the pursuit of "covid".'
+github: "https://github.com/PavelKriz/LBP_GIMP_plugin"
 ---
 
-**Introducing "PACMAN" – a game that defies expectations by running smoothly even at a mere 3 FPS! Its coded to be playable and reliable under such condition. This classic arcade game has been given a modern twist, featuring customizable maps, various game modes, and a unique challenge involving the pursuit of "covid".**
-
-**[The github repository](https://github.com/PavelKriz/LBP_GIMP_plugin) of the game contains more information and the game itself.**
 
 <style>
 

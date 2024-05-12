@@ -5,9 +5,9 @@ date:   2019-12-15 16:45:00 +0100
 categories: jekyll update
 cover: /images/the_drake/the-drake-cover.jpg
 tags: ["Java", "JavaFX"]
+introduction: "The game was created as a solution to a semester project in a subject at the university (programming in Java). The project was completed under the guidance of the project, where the teacher aimed to teach the student various programming techniques in Java."
 ---
 
-**The game was created as a solution to a semester project in a subject at the university (programming in Java). The project was completed under the guidance of the project, where the teacher aimed to teach the student various programming techniques in Java.**
 
 The class diagram of the project(open the image in a new tab to get the full view and zoom). 
 ![In game image](/images/mvc/thedrakeProject.png "Class diagram")
