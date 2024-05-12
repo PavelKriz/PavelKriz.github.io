@@ -32,6 +32,7 @@ layout: home
   float: left;
   width: 30%;
   padding: 1.5%;
+  margin: 5% 0% 5% 0%;
   text-align:center;
 }
 /* Make them stuck under each other */
@@ -41,11 +42,6 @@ layout: home
     padding: 0%;
   }
 }
-
-img{
-  border-radius: 5%;
-}
-
 </style>
 
 
@@ -53,30 +49,31 @@ img{
 
 My name is Pavel Kříž and I am a **software engineer** and I mainly deal with the backend, but I am a creative person and I have also dealt with frontend projects and I am even trained in UI/UX development and testing.
 
-<div style="text-align:center">  
+<div style="text-align:center; margin: 20pt 0pt 10pt 0pt;">  
   <button class="button" onclick="window.location.href='/projects';">See my projects</button>
 </div>  
 
-<div style="margin: 0pt 0pt 20pt 0pt;"></div>
-
-
-<div class="project-column">
-  Digitization and automatization of historical heritage - 
-  
-  <a  href="https://modely.cesnet.cz/en/staromestska_madona.html" target="_blank" rel="noopener noreferrer">online example</a>
-
-  <img  src="/images/about/Madonna.jpg"> 
-</div>
-<div class="project-column">
-  <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
-  <br>
-
-  <img src="/images/about/mute_exp.png"> 
-</div>
-<div class="project-column">
-  Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
+<div style="display: flex;
+    flex-wrap: wrap;
+    margin: 0pt 0pt 10pt 0pt;">
+  <div class="project-column">
+    Digitization and automatization of historical heritage - 
     
-  <img src="/images/about/Prasna_brana3_vol.jpg"> 
+    <a  href="https://modely.cesnet.cz/en/staromestska_madona.html" target="_blank" rel="noopener noreferrer">online example</a>
+  
+    <img class="main-img" src="/images/about/Madonna.jpg"> 
+  </div>
+  <div class="project-column">
+    <a href="https://texture.utia.cas.cz/#/about"  target="_blank" rel="noopener noreferrer"> Multispectral Textural Benchmark</a> - published at 27th KES conference. 
+    <br>
+  
+    <img class="main-img" src="/images/about/mute_exp.png"> 
+  </div>
+  <div class="project-column">
+    Phone localization using computer vision for <a  href="https://www.kralovskavennamesta.cz/en/index.html" target="_blank" rel="noopener noreferrer">Dowry Towns of Bohemian Queens</a>
+      
+    <img  class="main-img" src="/images/about/Prasna_brana3_vol.jpg"> 
+  </div>
 </div>
 
 ## My story
