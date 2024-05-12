@@ -5,9 +5,6 @@ list_title: Projects
 permalink: /contacts/
 ---
 
-<a href="/">Back to home page</a>
-
-# Contacts
 
 Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
