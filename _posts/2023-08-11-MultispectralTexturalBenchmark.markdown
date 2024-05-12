@@ -9,7 +9,6 @@ introduction: 'With the help and supervision of Prof. Michal Haindl I have imple
 ---
 
 
-
 **Application runs at [texture.utia.cas.cz](https://texture.utia.cas.cz)**. 
 
 **Post content**
