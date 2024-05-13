@@ -32,6 +32,9 @@ github: "https://github.com/PavelKriz/LINKTOTHEGITHUBREPOSITORY"
 * you have to install or jekyll packages, bundler etc.
 * to serve the page localy run `bundle exec jekyll serve`
 
+## Pages
+
+The pages that are shown in the navi are determined automaticaly or with the setup in `_config.yml`. In my case it is the setup, because you wont to control the order of the pages. It is stated under the `header_pages:` in `_config.yml`.
 
 
 ## Development
