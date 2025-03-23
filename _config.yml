@@ -33,7 +33,7 @@ plugins:
 header_pages:
   - index.md
   - projects.md
-  - contacts.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

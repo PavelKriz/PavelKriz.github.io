@@ -3,9 +3,25 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <center><h1 class="page-heading">{{page.welcome_moto}}</h1></center>
 
   {{ content }}
+  
+  <center><h2>The newest project:</h2></center>
+  
+  <img class="main-img" src="{{ site.posts[0].cover  }}">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <span class="post-meta">{{ site.posts[0].date | date: date_format }}</span>
+  {%- for tag in site.posts[0].tags -%}
+  &nbsp; <code>{{tag}}</code>
+  {%- endfor -%}
+  <a class="post-link" href="{{ site.posts[0].url | relative_url }}">
+    {{ site.posts[0].title | escape }}
+  </a>
+  
+  <b><center>...</center></b>
+  
+  <div style="text-align:center; margin: 20pt 0pt 10pt 0pt;">  
+    <button class="main-button" onclick="window.location.href='/projects';"><big>See all projects</big></button>
+  </div>
 </div>

@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Contacts
-list_title: Projects
-permalink: /contacts/
+title: About
+list_title: About
+permalink: /about/
 ---
 
+<img style="float: right; margin : 5%" width="20%" src="/images/Pavel_Kriz.png">
+
+My name is Pavel Kříž and I am a **software engineer** and I mainly deal with the backend, but I am a creative person and I have also dealt with frontend projects and I am even trained in UI/UX development and testing.
 
 Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
@@ -22,6 +25,29 @@ Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
   {%- if site.googleplus_username -%}<li><a href="https://plus.google.com/{{ site.googleplus_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg> <span class="username">{{ site.googleplus_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
 </ul>
-<br>
+
+
+## My story
+
+#### 2016
+
+* I coded first calculator 😀
+
+#### 2017 - 2021
+
+* I liked the programming so much -> application to universiy [FIT CTU in Prague (ČVUT)](https://fit.cvut.cz/en)  
+* Hearing **computer graphics** is the hardest major at faculty, so I chosen it with sentence "Hard in school, easy on job" in mind
+* Going to **Erasmus in Germany** at [RWTH Aachen](https://www.rwth-aachen.de) -  if the already hard school was not hard enough 😀
+* I have joined the Erasmus Student Network (ESN), which was one of my best decisions ever
+
+#### 2021 - 2023
+
+* **publishing scientific paper** about the innovative application at KES International Conference in Athens
+* I finished my masters in **software engineering** at  [FIT CTU in Prague (ČVUT)](https://fit.cvut.cz/en)  
+
+#### 2023 - now
+
+* I moved to Karlsruhe, Germany
+* I am working at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) as Computer Scientist. I maintain GitLab service with over 30 nodes and I like it especially for the fact that I can lear new technology every week. It includes a lot of programming as well.
 
 
