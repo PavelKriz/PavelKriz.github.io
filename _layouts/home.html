@@ -3,25 +3,57 @@ layout: default
 ---
 
 <div class="home">
-  <center><h1 class="page-heading">{{page.welcome_moto}}</h1></center>
+  <section class="intro-section">
+    <center>
+      <div class="intro-image">
+        <img src="{{ '/images/Pavel_Kriz.png' | relative_url }}" class="profile-circle" alt="Pavel Kříž">
+      </div>
+    </center>
+      <br>
+      <div class="intro-text">
+        <h1>Hi, I'm Pavel Kříž, a platform and cloud engineer with a background in software development.</h1>
+        <h3>
+           My journey began in computer graphics and evolved through pure Software Engineering before I found my niche in cloud. 
+        With MSc in Software Engineering, I specialize in bridging the gap between DevOps, Backend Development, and scalable Infrastructure.
+        </h3>
+      </div>
+    <center>
+      {%- if site.github_username -%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>{%- endif -%}
+      &nbsp;&nbsp;
+      {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a>{%- endif -%}
+    </center>
+  </section>
 
-  {{ content }}
   
-  <center><h2>The newest project:</h2></center>
+
+  <h1 style="text-align: center;">Latest Projects</h1>
   
-  <img class="main-img" src="{{ site.posts[0].cover  }}">
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  <span class="post-meta">{{ site.posts[0].date | date: date_format }}</span>
-  {%- for tag in site.posts[0].tags -%}
-  &nbsp; <code>{{tag}}</code>
-  {%- endfor -%}
-  <a class="post-link" href="{{ site.posts[0].url | relative_url }}">
-    {{ site.posts[0].title | escape }}
-  </a>
-  
-  <b><center>...</center></b>
-  
-  <div style="text-align:center; margin: 20pt 0pt 10pt 0pt;">  
-    <button class="main-button" onclick="window.location.href='/projects';"><big>See all projects</big></button>
+  <div class="project-grid">
+    {%- for post in site.posts limit: 2 -%}
+    <article class="project-card">
+      <a href="{{ post.url | relative_url }}" class="card-img-container">
+        {% if post.cover %}
+          <img class="main-img" src="{{ post.cover }}" alt="{{ post.title }}">
+        {% else %}
+          <div class="no-image-placeholder">No Image</div>
+        {% endif %}
+      </a>
+
+      <div class="card-content">
+          <h3>
+            <a class=" stretched-link" href="{{ post.url | relative_url }}">
+             {{ post.title | escape }}
+            </a>
+          </h3>
+        {%- if site.show_excerpts -%}
+          <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</div>
+        {%- endif -%}
+      </div>
+    </article>
+    {%- endfor -%}
+  </div>
+
+  <div class="view-all-container">
+    <a href="{{ '/projects/' | relative_url }}" class="view-all-btn">Explore All Projects →</a>
   </div>
 </div>

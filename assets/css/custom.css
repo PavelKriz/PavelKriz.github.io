@@ -49,3 +49,138 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+
+/* PROJECTS */
+
+  /* 1. Grid Container */
+  .project-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Default to 1 column (mobile) */
+    gap: 30px; /* Space between cards */
+    margin-top: 20px;
+  }
+
+  /* 2. Media Query for Desktop/Tablet (2 Columns) */
+  @media (min-width: 768px) {
+    .project-grid {
+      grid-template-columns: 1fr 1fr; /* Switch to 2 columns */
+    }
+  }
+
+  /* 3. Card Styling */
+  .project-card {
+    border: 1px solid #e1e1e1;
+    position: relative;
+    border-radius: 8px;
+    background-color: #fff; /* Ensure contrast against background */
+    overflow: hidden; /* Keeps image inside rounded corners */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* 2. Create the invisible overlay that covers the card */
+  .stretched-link::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1; /* Makes it sit on top of everything else in the card */
+    pointer-events: auto; /* Ensures it catches the click */
+  }
+
+  /* Hover Effect */
+  .project-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+
+  /* 4. Image Styling */
+  .project-card .card-img-container {
+    width: 100%;
+    height: 100px; /* Enforce fixed height for consistency */
+    overflow: hidden;
+  }
+
+  .project-card .main-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Crops image to fill space without distorting */
+    object-position: center;
+    border-radius: 0; /* Override any default minima styles */
+  }
+
+  /* 5. Content Styling */
+  .project-card .card-content {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Pushes content to fill height */
+  }
+
+  .project-card h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+
+  .project-card .post-meta {
+    font-size: 0.85rem;
+    color: #828282;
+  }
+  
+  .project-card .post-excerpt {
+    font-size: 0.95rem;
+    margin-top: 10px;
+    color: #333;
+  }
+
+
+/* Hero Section Styling */
+  .intro-section {
+    padding: 20px 0 20px;
+  }
+
+  .intro-container {
+    display: flex;
+    flex-direction: column; /* Mobile: Photo top, text bottom */
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+  }
+
+  @media (min-width: 768px) {
+    .intro-container {
+      flex-direction: row; /* Desktop: Side by side */
+      text-align: left;
+    }
+  }
+
+  .profile-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #fff;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  }
+
+  .intro-text{
+    text-align: center;
+  }
+
+
+  .view-all-container { text-align: center; margin-top: 40px; }
+  .view-all-btn {
+    display: inline-block;
+    padding: 12px 28px;
+    border: 1pt solid #111111;
+    text-decoration: none;
+    border-radius: 30px; /* Rounded pill style */
+    transition: opacity 0.2s;
+    font-size: large;
+  }
+  .view-all-btn:hover { opacity: 0.8; }
