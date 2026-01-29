@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Projects and posts
-list_title: Projects and posts
+title: Projects & Posts
+list_title: Projects & Posts
 permalink: /projects/
 ---
 

@@ -177,7 +177,8 @@
   .view-all-btn {
     display: inline-block;
     padding: 12px 28px;
-    border: 1pt solid #111111;
+    background: #111;
+    color: #fff !important;
     text-decoration: none;
     border-radius: 30px; /* Rounded pill style */
     transition: opacity 0.2s;
