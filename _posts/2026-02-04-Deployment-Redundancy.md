@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Deployment redundancy"
+date:   2026-01-29 15:03:00 +0100
+categories: jekyll update
+cover: /images/simple_kubernetes_GitLab-runner/cover.jpg
+tags: ["DevOps", "Redundancy", "Environments", "Architecture", "DevOps Lessons"]
+introduction: 'Most systems don’t fail because they lack redundancy. They fail because nobody noticed when a 3-VM service silently became a 200-VM platform. Redundancy is not inherently bad — in critical systems it is essential. The real question is: how much redundancy is the right amount when deploying services?'
+---
+
+Let’s imagine you are part of a small team preparing to deploy a new service. The first steps are already behind us, and now we are getting ready for production. Sounds great — let’s walk through the lifecycle of the service and watch how the VM count evolves over time.
+
+## 1. Step: production.
+
+Production, we need 3 VMs. Deploy and done. First users are joining! 🎉
+
+* production: 3 VMs
+* total: **3 VMs**
+
+## 2. Step: testing
+
+We got updates for the service! 📈 However we are no gigachads, so option to test in production is a no-go. Lets create a test environment with 3 VMs. It just works, nice. 
+
+* production: 3 VMs
+* testing: 3 VMs
+* total: **6 VMs**
+
+## 3. Step: scaling
+
+New users are joining our service, we scale production: node scaling, load balancers, proxies 🚀
+
+* production: 16 VMs
+* testing: 9 VMs
+* total: **25 VMs**
+
+## 4. Step  other environments
+
+Because our testing is far away to match our production, we introduce one production-similar last step test environment: staging. To support agile development, short-lived experimental environments start appearing... 🧪
+
+* production: 16 VMs
+* staging: 16 VMs
+* testing: 9 VMs
+* experimental: 5x3 VMs
+* total: **56 VMs**
+
+## 5. Step: geo redundancy
+
+Because we fear downtime and blackout (or something else relevant), we decide to introduce geo-redundant infrastructure to our system.
+
+* production: 2 x 16 VMs
+* staging: 2 x 16 VMs
+* testing: 2 x 9 VMs
+* single site testing: 9 VMs
+* experimental: 5 x 3 VMs
+* total: **106 VMs** 
+
+## (could have happened at any step): bad design choice
+
+We made a bed design step with all best intention. Eg: We dug too deep into microservice-oriented architecture and doubling VMs everywhere.
+
+* total **208 VMs**
+
+## How we ended up there and was it inevitable?
+
+We have **208 VMs** plus multiple environments and this gets very expensive, not talking about the man-hour cost to manage all of it.
+
+All the steps are reasonable by themselves, but when all combined it might easily get over our head. Quite often we can see at conferences/posts that these techniques are praised for their pros, but much less often the cons are mentioned as well. So we should ask ourselves every time if we really need it:
+
+* Testing: If it’s a rarely used service, would scheduled maintenance windows be enough to resolve issues directly in production?
+* Scaling: Would vertical scaling be sufficient? Is there room for optimization instead?
+* Staging: MCould a larger testing environment — something between testing and staging — catch most scale-related issues?
+* Geo: How quickly can we restore from an offsite backup? Would that be sufficient instead of full geo-redundancy? In many cases, geo-redundancy only makes sense for truly global or critically high-availability services.
+
+
+None of these decisions are wrong on their own. Complexity grows when reasonable decisions accumulate without regular re-evaluation. Redundancy is not just about availability — it is about the operational cost we silently accept.
