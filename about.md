@@ -5,7 +5,7 @@ list_title: About
 permalink: /about/
 ---
 
-<img style="float: right; margin : 5%" width="20%" src="/images/Pavel_Kriz.png">
+<img class="rounded-img" style="float: right;" width="20%" src="/images/Pavel_Kriz_web_full_small.jpg">
 
 My name is Pavel Kříž, a platform and cloud engineer with a background in software development. My journey began in computer graphics and evolved through pure Software Engineering before I found my niche in cloud. With MSc in Software Engineering, I specialize in bridging the gap between DevOps, Backend Development, and scalable Infrastructure. 
 

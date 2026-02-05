@@ -6,7 +6,7 @@ layout: default
   <section class="intro-section">
     <center>
       <div class="intro-image">
-        <img src="{{ '/images/Pavel_Kriz.png' | relative_url }}" class="profile-circle" alt="Pavel Kříž">
+        <img src="{{ '/images/Pavel_Kriz_web_square_small.jpg' | relative_url }}" class="profile-circle" alt="Pavel Kříž">
       </div>
     </center>
       <br>
@@ -33,7 +33,7 @@ layout: default
     <article class="project-card">
       <a href="{{ post.url | relative_url }}" class="card-img-container">
         {% if post.cover %}
-          <img class="main-img" src="{{ post.cover }}" alt="{{ post.title }}">
+          <img class="rounded-img" src="{{ post.cover }}" alt="{{ post.title }}">
         {% else %}
           <div class="no-image-placeholder">No Image</div>
         {% endif %}
