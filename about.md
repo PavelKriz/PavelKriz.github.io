@@ -7,7 +7,7 @@ permalink: /about/
 
 <img class="rounded-img" style="float: right;" width="20%" src="/images/Pavel_Kriz_web_full_small.jpg">
 
-My name is Pavel Kříž, a platform and cloud engineer with a background in software development. My journey began in computer graphics and evolved through pure Software Engineering before I found my niche in cloud. With MSc in Software Engineering, I specialize in bridging the gap between DevOps, Backend Development, and scalable Infrastructure. 
+My name is Pavel Kříž, a platform and software engineer with hands-on experience running large-scale, production-critical services and also software development, both full-stack apps and cloud infrastructure components. My journey began in computer graphics and evolved through pure Software Engineering before I found my niche in combination with cloud  With MSc in Software Engineering, I specialize in bridging the gap between DevOps, Backend Development, and scalable Infrastructure.
 
 <ul class="social-media-list">
   {%- if site.dribbble_username -%}<li><a href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#dribbble' | relative_url }}"></use></svg> <span class="username">{{ site.dribbble_username| escape }}</span></a></li>{%- endif -%}
