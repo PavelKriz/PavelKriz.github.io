@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pavel Kříž
+author: Pavel Kříž
 description: >- # this means to ignore newlines until "baseurl:"
-  Code creatively, innovatively, securely and accurately
+  Platform and Software Engineer specializing in bridging the gap between DevOps, Backend Development, and scalable infrastructure. Explore my latest projects in Kubernetes and Cloud deployments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  PavelKriz
