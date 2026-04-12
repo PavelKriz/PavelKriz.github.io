@@ -91,9 +91,15 @@
     border-radius: 0; /* Override any default minima styles */
   }
 
-  /* 5. Content Styling */
   .project-card .card-content {
     padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Pushes content to fill height */
+  }
+
+  .project-card .card-content-low-height {
+    padding: 0px 15px 0px;
     display: flex;
     flex-direction: column;
     flex-grow: 1; /* Pushes content to fill height */
