@@ -7,6 +7,7 @@ cover: /images/LBP-Gimp/cover.JPG
 tags: ["C", "GTK", "C++", "Gimp"]
 introduction: 'The "LBP IN GIMP" plugin is a powerful tool designed for GIMP, the popular image editing software. This plugin allows users to visualize various Local Binary Pattern (LBP) variations in images, making it useful for tasks like texture analysis in fields such as fingerprint recognition and medicine. Whether you need to visualize classic LBP or create artistic images using LBP with custom parameters, this plugin offers a versatile solution. It supports multiple LBP variations and provides a bridge between image processing and artistic creativity.'
 github: "https://github.com/PavelKriz/LBP_GIMP_plugin"
+featured: False
 ---
 
 

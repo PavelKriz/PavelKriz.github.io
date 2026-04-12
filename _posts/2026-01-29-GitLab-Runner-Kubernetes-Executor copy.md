@@ -6,6 +6,7 @@ categories: jekyll update
 cover: /images/simple_kubernetes_GitLab-runner/cover.jpg
 tags: ["Kubernetes", "DevOps", "GitLab", "GitLab Runner", "MicroK8s", "CI/CD"]
 introduction: 'With the deprecation of GitLab Docker runner, the simple runner solution for small teams or standalone developers is no longer the way. The Kubernetes runner is the other containerized option which might seem complicated at first but actually it is not. You can see at the trivial commands on how simple the base setup really is.'
+
 ---
 
 [As GitLab deprecated the docker executor](https://docs.gitlab.com/runner/executors/docker_machine/):

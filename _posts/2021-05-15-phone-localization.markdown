@@ -7,6 +7,7 @@ cover: /images/phone-localization/phone-localization-cover.png
 tags: ["C++", "OpenCV", "Boost", "Microsoft Visual C++"]
 introduction: 'The work was a bachelor thesis created as a part of the Dowry Cities of Czech Queens project, which aims to bring history closer to the general public using modern technologies such as augmented reality. This is done using an application for Android mobile devices, which displays historical elements in the camera scene at runtime. This work contributes to its development by proposing a localization solution for the application using image and geolocation data.'
 github: https://github.com/PavelKriz/phone-localization-submission
+featured: True
 ---
 
 

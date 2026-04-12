@@ -6,6 +6,7 @@ categories: jekyll update
 cover: /images/AutomatedGitLabDeployment/cover.png
 tags: ["DevOps", "GitLab", "GitLab Omnibus", "Teraform", "HAProxy", "Docker", "Automated certificates"]
 introduction: 'A concept demonstration of unusual tech-stack fto deploy GitLab or any similar service.'
+featured: False
 ---
 
 Why a interesting stack? Normally we would not use terraform (or OpenTofu) for such stuff, but rather use Docker Compose or Dockerfile. But maybe that is not what is the used stack, so for a demonstration we can use Terraform as well and a `kreuzwerker/docker` provider for infrastructure. This way we can manage containers locally instead of VMs. Another challange of this tech concept is not to use something more automated like `Traefik` as a proxy but rather manually set up our routing with `HAProxy` and automate the certificate ourselves with `Certbot`.

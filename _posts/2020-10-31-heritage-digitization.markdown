@@ -6,6 +6,7 @@ categories: jekyll update
 cover: /images/heritage-digitization/socha_cover.jpg
 tags: ["Python scripts", "Blender", "RealityCapture"]
 introduction: 'I have been working for CESNET on a heritage digitization. I have been working on digitizing such objects like Madonna from the Old Town in Prague.'
+featured: False
 ---
 
 

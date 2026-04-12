@@ -7,6 +7,7 @@ cover: /images/terrainforge/terrainforge-title.jpg
 tags: ["WebApp", "Flask", "OpenTopography", "Python", "Docker"]
 introduction: 'Creating long wanted fun project in my freetime. I always wanted to hold a physical model of mountains I know. TerrainForge makes it possible.'
 github: "https://github.com/PavelKriz/TerrainForge"
+featured: False
 ---
 
 ## What is TerrainForge?

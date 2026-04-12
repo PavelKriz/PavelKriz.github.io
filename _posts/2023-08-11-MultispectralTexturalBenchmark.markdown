@@ -6,6 +6,7 @@ categories: jekyll update
 cover: /images/MultispectralTexturalBenchmark/cover.png
 tags: ["Python", "Flask", "Flutter", "Apache", "REST", "C", "C++", "MongoDB", "SQL", "Redis Queue"]
 introduction: 'With the help and supervision of Prof. Michal Haindl I have implemented an unique web application for textural features information quality benchmarking. The application is based in cloud and is currently still in development. I would like to shortly describe the application. I have published a scientific article about the benchmark at 27th KES conference and it will be available in conference journal soon.'
+featured: True
 ---
 
 
