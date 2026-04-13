@@ -40,7 +40,7 @@ Alternatively we can take a look at the height map of the terrain:
 
 I wanted to export terrain to 3d print it, I was searching for an app to do it, but havent found anything ideal. I found both [Terrain2STL](https://jthatch.com/Terrain2STL/) and [TouchTerrain](https://touchterrain.geol.iastate.edu/) but both with its limitations, they do the job, but it was a great area for improvements. 
 
-> **NOTE 🗒️:** After finishing the prototype of that project i found [Map2model](https://map2model.com/) which is a great and modern solution. However I could not find a source code, so **let's be this a valuable insight of open source code** for anyone wanting to experiment with similar projects.
+> **NOTE 🗒️:** After finishing the prototype of that project i found [Map2model](https://map2model.com/) which is a great and modern solution. However as written later it uses frontend heavy implementation, which does not allow for as much optimization and speed improvements. Also I could not find a source code, so **let's be this a valuable insight of open source code** and motivation to work mainly on the processing speed to differ. Challange accepted 💪
 
 ## That's how it's made
 
