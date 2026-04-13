@@ -40,9 +40,9 @@ Alternatively we can take a look at the height map of the terrain:
 
 I wanted to export terrain to 3d print it, I was searching for an app to do it, but havent found anything ideal. I found both [Terrain2STL](https://jthatch.com/Terrain2STL/) and [TouchTerrain](https://touchterrain.geol.iastate.edu/) but both with its limitations, they do the job, but it was a great area for improvements. 
 
-> **NOTE 🗒️:** After finishing prototype of that project i found [Map2model](https://map2model.com/) which is great and modern solution. However I could not find a source code, so **lets be this a valuable insight of open source code** for anyone wanting to experiment with similar projects. 
+> **NOTE 🗒️:** After finishing the prototype of that project i found [Map2model](https://map2model.com/) which is a great and modern solution. However I could not find a source code, so **let's be this a valuable insight of open source code** for anyone wanting to experiment with similar projects.
 
-## That is ho how its made
+## That's how it's made
 
 The app is made to be simple and intuitive, both in use and design. To a reader it is then no-brainer it follows two layered architecture.
 
@@ -61,7 +61,7 @@ What is planned next?
 3. Optimize map loading and process speed
 4. provide previews
 
-> **MOTIVATION: 💪** Despite I found a nice tool to the same and well, I do plan to continue development. Just to make it meaningful the resulted tool will be a streamlined and effective version without any clutter and **open source**
+> **MOTIVATION: 💪** Despite I found a nice tool to the same and well, I do plan to continue development. Just to make it meaningful the resulted tool will be **open-sourced** a streamlined and effective version. There is a big advantage as the other tool uses frontend and ours backend it allows to implement storage of local preloaded data to offer previews/caching or faster speeds in general. Geo/map API's tend to slow things down quite a bit.
 
 ### Summary
 
