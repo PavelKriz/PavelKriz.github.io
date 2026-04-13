@@ -63,6 +63,6 @@ What is planned next?
 
 > **MOTIVATION: 💪** Despite I found a nice tool to the same and well, I do plan to continue development. Just to make it meaningful the resulted tool will be **open-sourced** a streamlined and effective version. There is a big advantage as the other tool uses frontend and ours backend it allows to implement storage of local preloaded data to offer previews/caching or faster speeds in general. Geo/map API's tend to slow things down quite a bit.
 
-### Summary
+## Summary
 
 TerrainForge is an open-source web application that converts topographic data into 3D-printable STL files. Users can select a map region and generate models for 3D printing or visualization. Built with Flask, OpenTopography data, and containerized with Docker, it offers a simpler alternative to existing solutions while demonstrating open-source principles for terrain modeling projects.
