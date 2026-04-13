@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing TerrainForge: Turn Maps Into Models"
 date:   2026-04-12 18:00:00 +0200
-categories: post
+categories: project
 cover: /images/terrainforge/terrainforge-title.jpg
 tags: ["WebApp", "Flask", "OpenTopography", "Python", "Docker"]
 introduction: 'Creating long wanted fun project in my freetime. I always wanted to hold a physical model of mountains I know. TerrainForge makes it possible.'
