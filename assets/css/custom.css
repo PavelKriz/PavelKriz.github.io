@@ -180,5 +180,6 @@
 @media screen and (max-width: 768px) {
   code {
     word-break: break-all;
+    hyphens: auto;
   }
 }
