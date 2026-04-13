@@ -128,6 +128,15 @@
     font-weight: bold;
   }
 
+  /* Code tag overflow fix - break before code tag, not inside it */
+  @media screen and (max-width: 768px) {
+    code {
+      display: inline-block;
+      word-break: break-word;
+      margin-bottom: 3px;
+    }
+  }
+
 
 /* Hero Section Styling */
   .intro-section {
@@ -176,10 +185,3 @@
   }
   .view-all-btn:hover { opacity: 0.8; }
 
-/* Code tag overflow fix - break before code tag, not inside it */
-@media screen and (max-width: 768px) {
-  code {
-    display: inline-block;
-    word-break: break-word;
-  }
-}
