@@ -175,3 +175,10 @@
     font-size: large;
   }
   .view-all-btn:hover { opacity: 0.8; }
+
+/* Code tag overflow fix - break on mobile */
+@media screen and (max-width: 768px) {
+  code {
+    word-break: break-all;
+  }
+}
