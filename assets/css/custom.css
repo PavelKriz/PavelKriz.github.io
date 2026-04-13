@@ -176,10 +176,10 @@
   }
   .view-all-btn:hover { opacity: 0.8; }
 
-/* Code tag overflow fix - break on mobile */
+/* Code tag overflow fix - break before code tag, not inside it */
 @media screen and (max-width: 768px) {
   code {
-    word-break: break-all;
-    hyphens: auto;
+    display: inline-block;
+    word-break: break-word;
   }
 }
