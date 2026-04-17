@@ -10,6 +10,8 @@ github: "https://github.com/PavelKriz/TerrainForge"
 featured: False
 ---
 
+**Application runs at [terrainforge](https://terrainforge.pavelkriz.com)**.
+
 ## What is TerrainForge?
 
 TerrainForge is a web-based application that transforms topographic data into 3D printable STL meshes. Perfect for spatial visualization, educational projects, or creating unique geographical mementos. 
