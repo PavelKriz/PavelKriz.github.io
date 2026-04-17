@@ -10,7 +10,7 @@ github: "https://github.com/PavelKriz/TerrainForge"
 featured: False
 ---
 
-**Application runs at [terrainforge](https://terrainforge.pavelkriz.com)**.
+**Application runs at [terrainforge.pavelkriz.com](https://terrainforge.pavelkriz.com)**.
 
 ## What is TerrainForge?
 
