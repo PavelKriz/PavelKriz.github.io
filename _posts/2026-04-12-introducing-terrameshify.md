@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Introducing TerrainForge: Turn Maps Into Models"
+title:  "Introducing TerraMeshify: Turn Maps Into Models"
 date:   2026-04-12 18:00:00 +0200
 categories: project
-cover: /images/terrainforge/terrainforge-title.jpg
+cover: /images/terrameshify/terrameshify-title.jpg
 tags: ["WebApp", "Flask", "OpenTopography", "Python", "Docker"]
-introduction: 'Creating long wanted fun project in my freetime. I always wanted to hold a physical model of mountains I know. TerrainForge makes it possible.'
-github: "https://github.com/PavelKriz/TerrainForge"
+introduction: 'Creating long wanted fun project in my freetime. I always wanted to hold a physical model of mountains I know. TerraMeshify makes it possible.'
+github: "https://github.com/PavelKriz/TerraMeshify"
 featured: False
 ---
 
-**Application runs at [terrainforge.pavelkriz.com](https://terrainforge.pavelkriz.com)**.
+**Application runs at [terrameshify.pavelkriz.com](https://terrameshify.pavelkriz.com)**.
 
-## What is TerrainForge?
+## What is TerraMeshify?
 
-TerrainForge is a web-based application that transforms topographic data into 3D printable STL meshes. Perfect for spatial visualization, educational projects, or creating unique geographical mementos. 
+TerraMeshify is a web-based application that transforms topographic data into 3D printable STL meshes. Perfect for spatial visualization, educational projects, or creating unique geographical mementos. 
 
 > 🔧: Now it is in alpha, but it will get mature soon
 
-![Visualization of the process](/images/terrainforge/process-visualization.jpg)
+![Visualization of the process](/images/terrameshify/process-visualization.jpg)
 
 ### How It Works?
 
 We start with a map selection:
-![Visualization of the process](/images/terrainforge/innsbruck-selection.jpg)
+![Visualization of the process](/images/terrameshify/innsbruck-selection.jpg)
 
 1. Draw a rectangle around your area of interest on the map
 2. Click "Generate Mesh"
@@ -32,13 +32,13 @@ We start with a map selection:
 
 Here is a created mesh
 
-![innsbruck-mesh](/images/terrainforge/innsbruck-mesh.jpg)
+![innsbruck-mesh](/images/terrameshify/innsbruck-mesh.jpg)
 
 Alternatively we can take a look at the height map of the terrain:
 
-![innsbruck-mesh](/images/terrainforge/innsbruck-graph.jpg)
+![innsbruck-mesh](/images/terrameshify/innsbruck-graph.jpg)
 
-### Why TerrainForge?
+### Why TerraMeshify?
 
 I wanted to export terrain to 3d print it, I was searching for an app to do it, but havent found anything ideal. I found both [Terrain2STL](https://jthatch.com/Terrain2STL/) and [TouchTerrain](https://touchterrain.geol.iastate.edu/) but both with its limitations, they do the job, but it was a great area for improvements. 
 
@@ -67,4 +67,4 @@ What is planned next?
 
 ## Summary
 
-TerrainForge is an open-source web application that converts topographic data into 3D-printable STL files. Users can select a map region and generate models for 3D printing or visualization. Built with Flask, OpenTopography data, and containerized with Docker, it offers a simpler alternative to existing solutions while demonstrating open-source principles for terrain modeling projects.
+TerraMeshify is an open-source web application that converts topographic data into 3D-printable STL files. Users can select a map region and generate models for 3D printing or visualization. Built with Flask, OpenTopography data, and containerized with Docker, it offers a simpler alternative to existing solutions while demonstrating open-source principles for terrain modeling projects.
