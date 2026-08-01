@@ -8,12 +8,13 @@ When writing posts:
 * create folder for images in `/images/FOLDER_FOR_THE_POST`, there you can than place the images for the post
 * create file in format `yyyy-mm-dd-NAME.markdown` in the folder `_posts`
 * the beggining of the file should be in following manner:
-```
+```yaml
 ---
 layout: post
 title:  "Some name"
 date:   yyyy-MM-dd hh:mm:ss +0100
-categories: jekyll update
+#categories: jekyll update <-DEPRACATED NOW
+categories: post # or project 
 cover: /images/IMAGE-FOLDER-FOR-POST/cover.JPG
 tags: ["some", "tags", "with", "used", "technologies", "or", "topics", "or", "anything", "that", "describes", "the", "post"]
 introduction: 'Write some introduction like in the newspaper articles. It will be displayed bold at the beggining of the article.'
