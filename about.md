@@ -7,7 +7,18 @@ permalink: /about/
 
 <img class="rounded-img" style="float: right;" width="20%" src="/images/Pavel_Kriz_web_full_small.jpg">
 
-My name is Pavel Kříž, a platform and software engineer with hands-on experience running large-scale, production-critical services and also software development, both full-stack apps and cloud infrastructure components. My journey began in computer graphics and evolved through pure Software Engineering before I found my niche in combination with cloud  With MSc in Software Engineering, I specialize in bridging the gap between DevOps, Backend Development, and scalable Infrastructure.
+My name is Pavel Kříž, and at work I am a platform and software engineer with hands-on experience improving developer experience, running large-scale production-critical services, and developing software and tooling. My journey began at university, where I studied computer graphics, and evolved through pure software engineering before I found myself in platform engineering.
+
+When I find some free time, I like to share some of my projects and experiences in these posts. However, I like to write them myself, without AI 😯, to keep the blog personal, so it takes quite some time. I began by posting about some interesting projects I took part in at university. Nowadays, I post about what I do and what I like to spend my free time on. From a technology perspective, that includes:
+- developing fun projects
+- self-hosting 
+  - docker or kubernetes
+- running services in cloud
+- smart home
+- 3D printing
+- and others 
+
+Apart from those, I also like to talk about my experiences and tech opinions.
 
 <ul class="social-media-list">
   {%- if site.dribbble_username -%}<li><a href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#dribbble' | relative_url }}"></use></svg> <span class="username">{{ site.dribbble_username| escape }}</span></a></li>{%- endif -%}
@@ -23,24 +34,3 @@ My name is Pavel Kříž, a platform and software engineer with hands-on experie
   {%- if site.googleplus_username -%}<li><a href="https://plus.google.com/{{ site.googleplus_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg> <span class="username">{{ site.googleplus_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
 </ul>
-
-## 2016
-
-* I coded first calculator, I liked it sooo much 😀
-
-## 2017 - 2023
-
-* Studying **computer graphics** at  [FIT CTU in Prague (ČVUT)](https://fit.cvut.cz/en)  
-* **Erasmus in Germany** at [RWTH Aachen](https://www.rwth-aachen.de)
-* Joining the Erasmus Student Network, **ESN** during studies
-* First **scientific paper** published
-* Finishing masters in **software engineering** at [CTU](https://fit.cvut.cz/en)  
-
-## 2023 - 2026
-
-* New position at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) as a platform and cloud engineer.
-
-## 2026 
-
-* Starting career again in Prague
-
